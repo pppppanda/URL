@@ -1,2 +1,2 @@
 # URL
-https://p.panda-cloud.xyz
+https://p.panda-cloud.work
